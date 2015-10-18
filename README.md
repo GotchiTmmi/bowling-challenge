@@ -1,6 +1,8 @@
 Bowling Challenge
 =================
 
+[![Code Climate](https://codeclimate.com/github/sanjsanj/bowling-challenge/badges/gpa.svg)](https://codeclimate.com/github/sanjsanj/bowling-challenge)
+
 ###[Click Here - To use the app on Heroku](http://sanjbowl.herokuapp.com)
 
 ![Bowling](https://github.com/sanjsanj/sanjsanj.github.io/blob/master/images/week6_bowling.png?raw=true)
